@@ -8,7 +8,6 @@ Welcome to my GitHub profile, where my passion for Artificial Intelligence and M
 
 - 💞️ **Collaboration:** I'm enthusiastic about collaborating on Machine Learning projects. If you're working on interesting ML projects or have ideas you'd like to explore together, don't hesitate to reach out. I believe that innovation thrives in a collaborative environment.
 
-- 📫 **How to Reach Me:** The best way to get in touch with me is through email. You can reach me at ananshia@gmail.com. Whether you want to discuss AI, share ideas, or explore potential collaborations, I'm always open to connecting with fellow enthusiasts.
 
 Feel free to explore my repositories, where I share my experiments, projects, and discoveries in the world of AI and Machine Learning. Let's learn, create, and innovate together!
 
